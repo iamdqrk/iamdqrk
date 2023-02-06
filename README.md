@@ -54,5 +54,5 @@
 <br>
 
 ## About me
-Me chamo Pedro, mas também conhecido como dqrk,  tenho 18 anos, iniciei na tecnologia aos meus 13 anos programando PHP. Atualmente atuo na parte de na parte de Cybersegurança e Desenvolvimento de aplicações web, também possuo conhecimento em Desenvolvimento de aplicações desktop, mobile e sistemas embarcados.
+Me chamo Pedro, mas também conhecido como dqrk,  tenho 18 anos, iniciei na tecnologia aos meus 13 anos programando PHP. Atualmente atuo na parte de Cybersegurança e Desenvolvimento de aplicações web, também possuo conhecimento em Desenvolvimento de aplicações desktop, mobile e sistemas embarcados.
 
