@@ -45,7 +45,7 @@
 <div style="display: inline_block"></br>
 <img align="center" alt="process" src="https://img.shields.io/badge/Intel-Core_i5_11th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
 
-<img align="center" alt="gtx" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+<img align="center" alt="gtx" src="https://img.shields.io/badge/NVIDIA-MX350-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 
 <img align="center" alt="sistema" src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" />
 
